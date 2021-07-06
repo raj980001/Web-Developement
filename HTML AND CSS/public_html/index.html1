@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<head>
+<!---- The page has a title Lifestyle Store-->
+<title>Lifestyle Store</title>
+<link href="style1.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+    <div class="header">
+        <div class="inner-header">
+            <div class="logo">
+            Lifestyle Store
+            </div>
+            <div class="header-link">
+                Sign up
+        </div>
+        <div class="header-link">
+            Log in
+          </div>
+        </div>
+    </div>
+    <div class="content">
+        <div class="banner-image">
+            <div class="inner-banner-image"> 
+                <div class="banner-content">
+                    <h1>Well Sell Lifestyle</h1>
+                    <p>flat 40% Off On Premium brands</p>
+                    <button class="button">Shop Now</button>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="items">
+            <a href="#">
+                <img src="img/camera.jpg" alt class="thumbnails"><!-- comment -->
+                <div class="caption">
+                    <h2>Cameras</h2>
+                    <p>Choose among the best available in the world.</p>
+                    
+                </div>
+            </a>
+        </div>
+    
+    <div class="items">
+        <a href="#">
+            <img src="img/watch.jpg" alt class="thumbnails">
+            <div class="caption">
+                <h2>Watches</h2>
+                <p>Original Watches from the best brands. </p>
+                
+            </div>
+        </a>
+    </div>
+        <div class="items">
+            <a href="#">
+                <img src="img/shirt.jpg" class="thumbnails"><!-- comment -->
+                <div class="caption">
+                    <h2>Shirts</h2>
+                    <p>Our exquisite collection of shirts.</p>
+                </div>
+            </a>
+        </div>
+    </div>    
+            
+        
+    <footer>
+        <div class="container">
+            <p>Copyright @ Lifestyle Store. All Rights Reserved | Contact Us: +9190000 00000 . </p>
+        </div>
+    </footer>
+</body>
+</html>
